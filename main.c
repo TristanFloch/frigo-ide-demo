@@ -3,7 +3,7 @@
 int main(void)
 {
     int i = 42;
-    printf("i = %d\n", i);
+    printf("Var i = %d\n", i);
 
     return 0;
 }
